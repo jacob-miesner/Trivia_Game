@@ -2,10 +2,10 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.phonegap.projectname" version = "1.0">
 	
-	<name>App Name</name>
+	<name>Trivia Game</name>
 	
 	<description>
-		App Description
+		Trivia page
 	</description>
 	
 	<author href = "http://mysite.com" email = "jacob.miesner@yahoo.com">
