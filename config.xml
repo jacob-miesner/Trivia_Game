@@ -1,0 +1,69 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.phonegap.projectname" version = "1.0">
+	
+	<name>App Name</name>
+	
+	<description>
+		App Description
+	</description>
+	
+	<author href = "http://mysite.com" email = "jacob.miesner@yahoo.com">
+		Jacob miesner
+	</author>
+	
+	<preference name = "orientation" value = "default"/>
+	<preference name = "target-device" value = "universal"/>
+	
+	
+	
+	<!-- Custom Icon -->
+		<icon src = "imgs/iconpic.png"/>
+	
+		<icon src = "imgs/iconpic-ldpi.png" gap:platform = "android" gap:qualifier = "ldpi"/>
+		<icon src = "imgs/iconpic-mdpi.png" gap:platform = "android" gap:qualifier = "mdpi"/>
+		
+		
+		<icon src = "imgs/iconpic-ldpi.png" gap:platform = "ios" width = "57" height = "57"/>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</widget>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

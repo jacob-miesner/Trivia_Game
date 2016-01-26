@@ -1,0 +1,135 @@
+﻿/*
+Author: Jacob Miesner
+Created: 1/8/16
+Edited:1/11/16
+*/
+
+body 
+{
+	width: 90%;
+	margin: 20px auto;	
+	
+	background-color:rgba(100,255,100,.4);
+	color:#222222;
+	font-family: "Brush Script MT",cursive,Papyrus,fantasy,Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif;
+	font-size:1.5rem;
+	line-height:1.5em
+}
+
+
+h1
+{
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+	text-decoration:underline;
+	
+	
+	padding-bottom:.5em;
+	
+	border-bottom-width:2px;
+	border-bottom-style:dashed;
+	border-bottom-color:#aaaaaa;
+
+
+	
+}
+
+
+a
+{
+	color:#33aa33;
+	font-weight:bold;
+	font-decoration:none;
+	text-transform:uppercase;
+}
+
+
+a:hover
+{
+	text-decoration:underline;
+	cursor:pointer  ;
+}
+
+
+li: nth-child(odd)
+{
+	font-weight:bold;
+}
+
+
+.red
+{
+	color:#f00;
+}
+
+
+header
+{
+	background-color:#FFCC00;
+	color:#3366FF
+	border-bottom-color:#996600;
+	border-bottom-style: solid;
+	border-bottom-width:2px;
+	padding:10px;
+}
+
+
+#pageTitle h1
+{
+	border:none;
+	text-align:left;
+	font-size:2.5em;
+	padding-bottom:none;
+}
+
+
+nav
+{
+	text-align:right;
+}
+
+nav a
+{
+	margin-left:20px;
+	background-color:#3366FF;
+	padding:10px;
+	color:#FFFFFF;
+	border-radius:7px;
+}
+
+nav a:hover
+{
+	background-color:#0000FF;
+	text-decoration:none;
+	
+	
+}
+
+
+img
+{
+	max-width:100%;
+	width:auto;
+	height:auto;
+	
+	display:block;
+	
+	margin-right:auto;
+	margin-left:auto;
+	box-sizing:border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
